@@ -10,7 +10,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 
 ![App Screenshot](https://pngimg.com/uploads/titanic/titanic_PNG34.png)
-For full report of this project, please visit: [Titanic](https://github.com/L-VinayKumar/Predict-Absenteeism-from-work/tree/main/Predict-Absenteeism)
+For full report of this project, please visit: [Titanic](https://github.com/L-VinayKumar/Titanic_Analysis/tree/main/Titanic_analysis)
 
 ## Table of Contents:
 
