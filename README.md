@@ -10,7 +10,7 @@ While there was some element of luck involved in surviving, it seems some groups
 
 
 ![App Screenshot](https://pngimg.com/uploads/titanic/titanic_PNG34.png)
-For full report of this project, please visit: [Titanic](https://github.com/L-VinayKumar/Titanic_Analysis/tree/main/Titanic_analysis)
+Full report of this project: [Titanic](https://github.com/L-VinayKumar/Titanic_Analysis/tree/main/Titanic_analysis)
 
 ## Table of Contents:
 
@@ -115,7 +115,7 @@ At this stage, a brief analysis of the data will be carried out,
 
 * Using classification report, we can check precision,recall,f1-score
 
-* Predict New Dataset:![Logo](https://github.com/L-VinayKumar/Titanic_Analysis/blob/main/Titanic_analysis/Evaluation_results.PNG?raw=true)
+![Logo](https://github.com/L-VinayKumar/Titanic_Analysis/blob/main/Titanic_analysis/Evaluation_results.PNG?raw=true)
 
 ## Conclusion
 
