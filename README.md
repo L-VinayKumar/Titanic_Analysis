@@ -38,7 +38,7 @@ Building a predictive model that answers the question: “what sorts of people w
 *   pclass	 :     Ticket class
 
                 -> 1 = 1st
-                -> 2 = 2nd,
+                -> 2 = 2nd
                 -> 3 = 3rd
 *   sex	    :    Sex	
 *   Age	Age  :   in years	
