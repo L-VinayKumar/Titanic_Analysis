@@ -1,4 +1,4 @@
-# **To predict a classification - survival or decease**
+# **To predict a classification - survival or deceased**
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
